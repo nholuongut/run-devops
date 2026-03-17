@@ -52,7 +52,6 @@ You’ll see how to deploy your multi-container microservices applications with 
 * [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
